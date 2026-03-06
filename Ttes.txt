@@ -1,2 +1,3 @@
 Originial Project state 
 Inititalizing git
+New after clone change
